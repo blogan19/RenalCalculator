@@ -16,6 +16,6 @@
 
 
    <content src="index.html"></content>
-   <preference name="phonegap-version" value="cli-8.0.0" />
+   <preference name="phonegap-version" value="cli-7.5.0" />
    <gap:plugin name="phonegap-admob" source="npm" version="5.1.0"/>
 </widget>
